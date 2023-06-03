@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 Feel free to explore my repositories and incorporate the code into your own projects.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
