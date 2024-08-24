@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ehsan Kittany</h1>
 <h3 align="center"> Software Engineer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on  **FULL STACK PROJECT **
 
 - 📫 How to reach me **ehsankittany@gmail.com**
 
